@@ -2,4 +2,12 @@
 
 * {
 	font-family: Arial;
+	:root {
+		/* CSS HEX */
+--vintage-grape: #60435fff;
+--petal-pink: #d67ab1ff;
+--blush-pop: #e2a3c7ff;
+--snow: #fdf7faff;
+--pearl-aqua: #a8dcd9ff;
+	}
 }
